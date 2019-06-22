@@ -80,6 +80,11 @@
 .colore3 {
   background-color: #f3f5f9;
 }
+.cont_flex {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* sezione3 */
 #bardeploy {
  line-height: 4;
